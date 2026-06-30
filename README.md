@@ -205,13 +205,6 @@ GitHub: https://github.com/yourusername
 ````
 
 
-Combine part:
-----------------------------------------------------
-technical part
-buisness part 
-----------------------------------------------------
-
-
 Task Group 5 (Data Titan)
 
 Group 5: The Outdoor Campus Delivery Rover
